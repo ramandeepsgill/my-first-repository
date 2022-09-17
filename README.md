@@ -9,3 +9,4 @@ Important steps for Git workflow:
 6. Review previous changes with git log
 
 Hello, I love using Git
+This was added on Github.com
