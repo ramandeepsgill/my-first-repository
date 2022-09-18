@@ -10,3 +10,6 @@ Important steps for Git workflow:
 
 Hello, I love using Git
 This was added on Github.com
+
+One more change for luck.
+
